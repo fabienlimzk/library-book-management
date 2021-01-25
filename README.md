@@ -1,5 +1,6 @@
-A very basic application of React and Redux
-[DEMO](https://fabienlimzk.github.io/library-book-management/)
+A very basic application of React and Redux.
+
+[DEMO HERE](https://fabienlimzk.github.io/library-book-management/)
 
 # Getting Started with Create React App
 
