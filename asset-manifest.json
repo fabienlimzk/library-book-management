@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/library-book-management/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/library-book-management/static/js/main.ea536126.chunk.js",
+    "main.js.map": "/library-book-management/static/js/main.ea536126.chunk.js.map",
+    "runtime-main.js": "/library-book-management/static/js/runtime-main.d4b9dc8a.js",
+    "runtime-main.js.map": "/library-book-management/static/js/runtime-main.d4b9dc8a.js.map",
+    "static/js/2.a082e8bb.chunk.js": "/library-book-management/static/js/2.a082e8bb.chunk.js",
+    "static/js/2.a082e8bb.chunk.js.map": "/library-book-management/static/js/2.a082e8bb.chunk.js.map",
+    "index.html": "/library-book-management/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/library-book-management/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a082e8bb.chunk.js.LICENSE.txt": "/library-book-management/static/js/2.a082e8bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b9dc8a.js",
+    "static/js/2.a082e8bb.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ea536126.chunk.js"
+  ]
+}
