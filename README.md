@@ -1,3 +1,6 @@
+A very basic application of React and Redux
+[DEMO](https://fabienlimzk.github.io/library-book-management/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
