@@ -44,7 +44,6 @@ const AddNewBook = (props) => {
   };
 
   const handleSubmitButton = () => {
-    console.log(values);
     props.addNewBook(values);
   };
 
